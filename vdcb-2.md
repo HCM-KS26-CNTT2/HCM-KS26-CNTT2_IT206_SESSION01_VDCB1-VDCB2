@@ -22,6 +22,6 @@ def connect_database():
    
 **2. Câu lệnh Prompt an toàn gửi kèm cho AI:** "Bạn là một chuyên gia bảo mật và lập trình viên cao cấp. Tôi có đoạn mã Python kết nối cơ sở dữ liệu dưới đây. Các thông tin nhạy cảm đã được ẩn đi bằng các placeholder. Hãy xem xét đoạn code này và tư vấn giúp tôi các phương án tối ưu hóa, tuân thủ các thực hành bảo mật tốt nhất để bảo vệ thông tin cấu hình thay vì viết cứng trong mã nguồn:
 def connect_database(): 
-    db_password = '[YOUR_DATABASE_PASSWORD]' 
-    api_key = '[YOUR_API_KEY]' 
+    db_password = '[kkk]' 
+    api_key = '[kkkk]' 
     print('Đang kết nối...')
